@@ -1,6 +1,9 @@
 a{
     color:#47B1FA;
 }
+#jingle_toast>a{
+	color:#fff;
+}
 article{
     background-color: #fff;
     color: #666;
